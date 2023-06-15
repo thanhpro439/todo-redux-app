@@ -9,3 +9,5 @@
 ### `npm i @redux-devtools/extension`
 
 ### `npm i @babel/plugin-proposal-private-property-in-object`
+
+### `npm i reselector`
